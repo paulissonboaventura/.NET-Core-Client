@@ -1,7 +1,7 @@
 ﻿using Core.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Core.Domain
+namespace Core.Domain.Models.Context
 {
     public partial class AgendaContext : DbContext
     {
