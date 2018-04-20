@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"AgendaContext","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"","ProjectRootNamespace":"Core.Domain","SelectedToBeGenerated":0,"Tables":["dbo.__RefactorLog","dbo.Evento","dbo.Usuario"],"UseDatabaseNames":false,"UseFluentApiOnly":true,"UseHandleBars":false,"UseInflector":true}
