@@ -1,0 +1,11 @@
+C:\Users\pboaventura\source\repos\CoreClient\CoreClient\bin\Debug\netcoreapp2.0\CoreClient.deps.json
+C:\Users\pboaventura\source\repos\CoreClient\CoreClient\bin\Debug\netcoreapp2.0\CoreClient.runtimeconfig.json
+C:\Users\pboaventura\source\repos\CoreClient\CoreClient\bin\Debug\netcoreapp2.0\CoreClient.runtimeconfig.dev.json
+C:\Users\pboaventura\source\repos\CoreClient\CoreClient\bin\Debug\netcoreapp2.0\CoreClient.dll
+C:\Users\pboaventura\source\repos\CoreClient\CoreClient\bin\Debug\netcoreapp2.0\CoreClient.pdb
+C:\Users\pboaventura\source\repos\CoreClient\CoreClient\obj\Debug\netcoreapp2.0\CoreClient.csprojResolveAssemblyReference.cache
+C:\Users\pboaventura\source\repos\CoreClient\CoreClient\obj\Debug\netcoreapp2.0\CoreClient.csproj.CoreCompileInputs.cache
+C:\Users\pboaventura\source\repos\CoreClient\CoreClient\obj\Debug\netcoreapp2.0\CoreClient.AssemblyInfoInputs.cache
+C:\Users\pboaventura\source\repos\CoreClient\CoreClient\obj\Debug\netcoreapp2.0\CoreClient.AssemblyInfo.cs
+C:\Users\pboaventura\source\repos\CoreClient\CoreClient\obj\Debug\netcoreapp2.0\CoreClient.dll
+C:\Users\pboaventura\source\repos\CoreClient\CoreClient\obj\Debug\netcoreapp2.0\CoreClient.pdb
